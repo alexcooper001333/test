@@ -4,3 +4,5 @@ def m2():
     print('i love you!')
 def m3():
     pass
+def m4():
+    pass
